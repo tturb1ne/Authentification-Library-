@@ -1,0 +1,6 @@
+D:\Authorization\UserManagmentLibrary\bin\Debug\UserManagmentLibrary.dll
+D:\Authorization\UserManagmentLibrary\bin\Debug\UserManagmentLibrary.pdb
+D:\Authorization\UserManagmentLibrary\obj\Debug\UserManagmentLibrary.csproj.AssemblyReference.cache
+D:\Authorization\UserManagmentLibrary\obj\Debug\UserManagmentLibrary.csproj.CoreCompileInputs.cache
+D:\Authorization\UserManagmentLibrary\obj\Debug\UserManagmentLibrary.dll
+D:\Authorization\UserManagmentLibrary\obj\Debug\UserManagmentLibrary.pdb

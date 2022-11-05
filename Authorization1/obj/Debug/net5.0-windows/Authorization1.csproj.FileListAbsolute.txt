@@ -1,0 +1,63 @@
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.csproj.AssemblyReference.cache
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Assets\ResourceDictionaries\ColorDictionary.baml
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Assets\ResourceDictionaries\StyleDictionary.baml
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\View\Pages\UserPage.g.cs
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\View\Windows\UserListWindow.g.cs
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\App.g.cs
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1_MarkupCompile.cache
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1_MarkupCompile.lref
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.g.cs
+D:\I shat my pant\Authorization1\Authorization1\bin\Debug\net5.0-windows\Authorization1.exe
+D:\I shat my pant\Authorization1\Authorization1\bin\Debug\net5.0-windows\Authorization1.deps.json
+D:\I shat my pant\Authorization1\Authorization1\bin\Debug\net5.0-windows\Authorization1.runtimeconfig.json
+D:\I shat my pant\Authorization1\Authorization1\bin\Debug\net5.0-windows\Authorization1.runtimeconfig.dev.json
+D:\I shat my pant\Authorization1\Authorization1\bin\Debug\net5.0-windows\Authorization1.dll
+D:\I shat my pant\Authorization1\Authorization1\bin\Debug\net5.0-windows\ref\Authorization1.dll
+D:\I shat my pant\Authorization1\Authorization1\bin\Debug\net5.0-windows\Authorization1.pdb
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\App.baml
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\View\Pages\UserPage.baml
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.baml
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\View\Windows\UserListWindow.baml
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.g.resources
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.GeneratedMSBuildEditorConfig.editorconfig
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.AssemblyInfoInputs.cache
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.AssemblyInfo.cs
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.csproj.CoreCompileInputs.cache
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.dll
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\ref\Authorization1.dll
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.pdb
+D:\I shat my pant\Authorization1\Authorization1\obj\Debug\net5.0-windows\Authorization1.genruntimeconfig.cache
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\Authorization1.exe
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\Authorization1.deps.json
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\Authorization1.runtimeconfig.json
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\Authorization1.runtimeconfig.dev.json
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\Authorization1.dll
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\ref\Authorization1.dll
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\Authorization1.pdb
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\UserManagmentLibrary.dll
+D:\Authorization\Authorization1\bin\Debug\net5.0-windows\UserManagmentLibrary.pdb
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.csproj.AssemblyReference.cache
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Assets\ResourceDictionaries\ColorDictionary.baml
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Assets\ResourceDictionaries\StyleDictionary.baml
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\View\Pages\UserPage.g.cs
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.g.cs
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\View\Windows\UserListWindow.g.cs
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\App.g.cs
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1_MarkupCompile.cache
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1_MarkupCompile.lref
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\App.baml
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\View\Pages\UserPage.baml
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.baml
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\View\Windows\UserListWindow.baml
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.g.resources
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.AssemblyInfoInputs.cache
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.AssemblyInfo.cs
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.csproj.CoreCompileInputs.cache
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.csproj.CopyComplete
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.dll
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\ref\Authorization1.dll
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.pdb
+D:\Authorization\Authorization1\obj\Debug\net5.0-windows\Authorization1.genruntimeconfig.cache
